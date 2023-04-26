@@ -15,5 +15,5 @@ Pass your query text or document through the OpenAI Embedding API again.
 Take the resulting vector embedding and send it as a query to Pinecone.
 Get back semantically similar documents, even if they don't share any keywords with the query.
 
-![Alt Text](/path/to/image.png)
+![Alt Text](6a3ea5a-pinecone-openai-overview.png)
 
