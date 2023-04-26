@@ -17,3 +17,23 @@ Get back semantically similar documents, even if they don't share any keywords w
 
 ![Alt Text](6a3ea5a-pinecone-openai-overview.png)
 
+# Features
+- Semantic search engine that provides accurate and relevant search results
+- Uses artificial intelligence to encode the user's query into a vector and search for similarity within a body of text
+- Can store all the text to be searched using a vector database like Pinecone
+- Designed to be fast, efficient, and scalable
+- Can be easily integrated into existing applications and websites
+
+# Technologies
+* Python
+* Hugging Face Transformers Dataset
+* Pinecone Vector Database
+* OpenAI embeddings
+
+# Usage
+To use this semantic search engine, follow these steps:
+
+1. Install the required dependencies by running pip install -r requirements.txt
+2. Store the text to be searched in a vector database like Pinecone
+3. Run the search engine by running python semantic_search.py or the google colab notebook can also be directly acessed
+4. Enter your search query and view the search results
