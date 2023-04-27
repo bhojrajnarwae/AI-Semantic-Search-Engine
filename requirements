@@ -1,0 +1,5 @@
+# Following libraries and dataset are required for running the project
+
+pip install openai
+pip install -U openai pinecone-client datasets
+hugging face dataset
